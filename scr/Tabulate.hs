@@ -21,8 +21,9 @@ borders sl =
             ) sl &  -- My copy-paste resulted in the newline between regions and the borders they share to be missing, so this will fix that
           zip [0..]
   in filter (strContainsNum . snd) sl' &  --Check if the line contains a number. If so, then it is the "source" country/region
-  map (\e -> (processRegion (snd e), regionBorders (map snd sl') (fst e))) & --Gets the correlation between the regions and the borders
-  map (\e -> (strip . fst $ e, map strip . snd $ e))
+  map (\e -> (processRegion (snd e), regionBorders (map snd sl') (fst e))) & --Gets the correlation between the countries/regions and the borders
+  map (\e -> (strip . fst $ e, map strip . snd $ e)) &  --Remove excess whitespace
+  filter (not . null . snd)  --Remove countries/regions that do not have a land border
   --TODO: Format into CSV or something?
 
 processRegion :: String -> String  --Gets rid of all the useless crap
@@ -42,8 +43,8 @@ regionBorders sl i =
               if ((strContainsNum . head) l) then  --Skips past everything belonging to the the next country/region
                 []
               else if (length . tail) l > 1 then
-                (if head l & isInfixOf "(M)" then  --Is a maritime border, ignore it
-                  loop (tail l)
+                (if head l & (\r -> isInfixOf "(M)" r || isInfixOf "None" r) then  --Is a maritime border, ignore it
+                  loop (tail l)  
                 else
                   [head l & processBorder] ++ loop (tail l))  --Adds the country/region that is bordering
               else
