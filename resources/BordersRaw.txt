@@ -1,0 +1,1405 @@
+French Southern and Antarctic Lands Adélie Land[d][e] (France)	1	1	1	Australia Australian Antarctic Territory[d] (Australia)
+ Afghanistan	6	0	6	 China (L)
+ Iran (L)
+ Pakistan (L)[f]
+ Tajikistan (L)
+ Turkmenistan (L)
+ Uzbekistan (L)
+United Kingdom Akrotiri and Dhekelia[g] (United Kingdom)	1	1	1	 Cyprus
+United Nations United Nations Buffer Zone in Cyprus (L)[h]
+ Albania	4	3	5	 Greece
+ Italy (M)
+ Montenegro
+ North Macedonia (L)
+ Kosovo[i] (L)
+ Algeria	7	4	9	 Italy (M)
+ Libya (L)
+ Mali (L)
+ Mauritania (L)
+ Morocco
+ Niger (L)
+ Spain (M)
+ Tunisia
+Western Sahara[j] (L)
+ American Samoa[k] (United States)	0	3 (5)	3 (5)	 Samoa (M)
+ Tonga (M)
+ Cook Islands[l] (New Zealand) (M)
+ Niue[m] (New Zealand) (M)
+ Tokelau[n] (New Zealand) (M)
+ Andorra	2	0	2	 France (L)
+ Spain (L)
+ Angola	4	3	4	 Democratic Republic of the Congo
+ Republic of the Congo
+ Namibia
+ Zambia (L)
+ Anguilla[g] (United Kingdom)	0	4 (6)	4 (6)	 Antigua and Barbuda (M)
+ British Virgin Islands[g] (United Kingdom) (M)
+ Netherlands (M)
+ Saint Barthélemy[o] (France) (M)
+France Saint Martin[o] (France) (M)
+ United States Virgin Islands[k] (United States) (M)
+ Antigua and Barbuda	0	3 (5)	3 (5)	 France (M)
+ Saint Kitts and Nevis (M)
+ Anguilla[g] (United Kingdom) (M)
+ Montserrat[g] (United Kingdom) (M)
+France Saint Barthélemy[o] (France) (M)
+ Argentina	5	3	6	 Bolivia (L)
+ Brazil (L)
+ Chile
+ Paraguay (L)
+ Uruguay
+ Falkland Islands[g][p] (United Kingdom) (M)
+ Argentine Antarctica[d] (Argentina)	2	2	2	 Chilean Antarctic Territory[d][q] (Chile)
+ British Antarctic Territory[d][q] (United Kingdom)
+ Armenia	4	0	4	 Azerbaijan (L)
+ Georgia (L)
+ Iran (L)
+ Turkey (L)
+ Aruba[r] (Netherlands)	0	2 (3)	2 (3)	 Curaçao[r] (Netherlands) (M)
+ Dominican Republic (M)
+ Venezuela (M)
+ Ashmore and Cartier Islands[s] (Australia)	0	2 (3)	2 (3)	 Australia (M)
+ East Timor (M)
+ Indonesia (M)
+ Australia	0	6 (7)	6 (7)	 East Timor (M)
+ Indonesia (M)
+ New Zealand (M)
+ Papua New Guinea (M)
+ Solomon Islands (M)
+ French Southern and Antarctic Lands (France) (M)
+ New Caledonia[t] (France) (M)
+Australia Australia (excluding outlying islands)	0	4 (6)	4 (6)	 Ashmore and Cartier Islands[s] (Australia) (M)
+ Coral Sea Islands[s] (Australia) (M)
+ East Timor (M)
+ Indonesia (M)
+ New Zealand (M)
+ Papua New Guinea (M)
+Australia Australian Antarctic Territory[d] (Australia)	3	3	3	French Southern and Antarctic Lands Adélie Land[d] (France)
+Norway Queen Maud Land[d] (Norway)
+New Zealand Ross Dependency[d] (New Zealand)
+ Austria	8	0	8	 Czech Republic (L)
+ Germany (L)
+ Hungary (L)
+ Italy (L)
+ Liechtenstein (L)
+ Slovakia (L)
+ Slovenia (L)
+  Switzerland (L)
+ Azerbaijan	5	4	7	 Armenia (L)
+ Georgia (L)
+ Iran[u]
+ Kazakhstan (M)[u]
+ Russia[u]
+ Turkey (L)
+ Turkmenistan (M)[u][v]
+ Bahamas	0	4	4	 Cuba (M)
+ Haiti (M)
+ United States (M)
+ Turks and Caicos Islands[g] (United Kingdom) (M)
+ Bahrain	0	3	3	 Iran (M)
+ Qatar (M)
+ Saudi Arabia (M)
+United States Baker Island[k] (United States)	0	1 (2)	1 (2)	United States Howland Island[k] (United States) (M)
+ Kiribati (M)
+ Bangladesh	2	2	2	 Myanmar
+ India
+ Barbados	0	6	6	 France (M)
+ Guyana (M)
+ Saint Lucia (M)
+ Saint Vincent and the Grenadines (M)
+ Trinidad and Tobago (M)
+ Venezuela (M)
+ Belarus	5	0	5	 Latvia (L)
+ Lithuania (L)
+ Poland (L)
+ Russia (L)
+ Ukraine (L)
+ Belgium	4	3	5	 France
+ Germany (L)
+ Luxembourg (L)
+ Netherlands
+ United Kingdom (M)
+ Belize	2	3	3	 Guatemala
+ Honduras (M)
+ Mexico
+ Benin	4	2	4	 Burkina Faso (L)
+ Niger (L)
+ Nigeria
+ Togo
+ Bermuda[g] (United Kingdom)	0	0	0	None
+ Bhutan	2	0	2	 China (L)
+ India (L)
+ Bolivia	5	0	5	 Argentina (L)
+ Brazil (L)
+ Chile (L)
+ Paraguay (L)
+ Peru (L)
+ Bosnia and Herzegovina	3	1	3	 Croatia
+ Montenegro (L)
+ Serbia (L)
+ Botswana	4	0	4	 Namibia (L)
+ South Africa (L)
+ Zambia (L)
+ Zimbabwe (L)
+ Bouvet Island[w] (Norway)	0	0	0	None
+ Brazil	10	2	10	 Argentina (L)
+ Bolivia (L)
+ Colombia (L)
+ France
+ Guyana (L)
+ Paraguay (L)
+ Peru (L)
+ Suriname (L)
+ Uruguay
+ Venezuela (L)
+ British Antarctic Territory[d] (United Kingdom)	3	3	3	 Chilean Antarctic Territory[d][q] (Chile)
+ Argentine Antarctica[d][q] (Argentina)
+Norway Queen Maud Land[d] (Norway)
+ British Indian Ocean Territory[g][x] (United Kingdom)	0	1	1	 Maldives (M)
+ British Virgin Islands[g] (United Kingdom)	0	1 (3)	1 (3)	 Anguilla[g] (United Kingdom) (M)
+ Puerto Rico[k] (United States) (M)
+ United States Virgin Islands[k] (United States) (M)
+ Brunei	1	4	4	 China (M)[q]
+ Malaysia
+ Philippines (M)[q]
+ Vietnam (M)[q]
+ Bulgaria	5	4	7	 Greece (L)
+ North Macedonia (L)
+ Romania
+ Serbia (L)
+ Turkey
+ Russia (M)[y]
+ Ukraine (M)[y]
+ Burkina Faso	6	0	6	 Benin (L)
+ Côte d'Ivoire (L)
+ Ghana (L)
+ Mali (L)
+ Niger (L)
+ Togo (L)
+ Burundi	3	0	3	 Democratic Republic of the Congo (L)
+ Rwanda (L)
+ Tanzania (L)
+ Cambodia	3	3	3	 Laos (L)
+ Thailand[q]
+ Vietnam[q]
+ Cameroon	6	2	6	 Central African Republic (L)
+ Chad (L)
+ Republic of the Congo (L)
+ Equatorial Guinea
+ Gabon (L)
+ Nigeria
+ Canada	2	3	3	 United States
+ Greenland[z] (Denmark)
+ Saint Pierre and Miquelon[o] (France) (M)
+ Cape Verde	0	3	3	 The Gambia (M)
+ Mauritania (M)
+ Senegal (M)
+ Cayman Islands[g] (United Kingdom)	0	3	3	 Cuba (M)
+ Honduras (M)
+ Jamaica (M)
+ Central African Republic	6	0	6	 Cameroon (L)
+ Chad (L)
+ Democratic Republic of the Congo (L)
+ Republic of the Congo (L)
+ South Sudan (L)
+ Sudan (L)
+ Chad	6	0	6	 Cameroon (L)
+ Central African Republic (L)
+ Libya (L)
+ Niger (L)
+ Nigeria (L)
+ Sudan (L)
+ Chile	3	2	3	 Argentina
+ Bolivia (L)
+ Peru
+ Chilean Antarctic Territory[d] (Chile)	2	3	3	 Argentine Antarctica[d][q] (Argentina)
+ British Antarctic Territory[d][q] (United Kingdom)
+Norway Peter I Island[d] (Norway) (M)
+ People's Republic of China[aa]
+(excluding  Hong Kong and  Macau)	14	8	22	 Afghanistan (L)
+ Bhutan (L)
+ Brunei (M)[q]
+ India (L)[q]
+ Indonesia (M)[q]
+ Japan (M)
+ Kazakhstan (L)
+ North Korea (L)
+ South Korea (M)
+ Kyrgyzstan (L)
+ Laos (L)
+ Malaysia (M)[q]
+ Mongolia (L)
+ Myanmar (L)
+   Nepal (L)
+ Pakistan (L)
+ Philippines (M)[q]
+ Russia (L)
+ Tajikistan (L)
+ Vietnam (L)[q]
+ Hong Kong
+ Macau
+ Christmas Island[s] (Australia)	0	1	1	 Indonesia (M)
+ Clipperton Island[ab] (France)	0	0	0	None
+ Cocos (Keeling) Islands[s] (Australia)	0	0	0	None
+ Colombia	5	8	10	 Brazil (L)
+ Costa Rica (M)
+ Dominican Republic (M)
+ Ecuador
+ Haiti (M)
+ Jamaica (M)
+ Nicaragua (M)
+ Panama
+ Peru (L)
+ Venezuela
+ Comoros	0	5 (6)	5 (6)	 France (M)
+ Madagascar (M)
+ Mozambique (M)
+ Seychelles (M)
+ Tanzania (M)
+ French Southern and Antarctic Lands[ac] (France) (M)
+ Democratic Republic of the Congo	9	2	9	 Angola[q]
+ Burundi (L)
+ Central African Republic (L)
+ Republic of the Congo
+ Rwanda (L)
+ South Sudan (L)
+ Tanzania (L)
+ Uganda (L)
+ Zambia (L)
+ Republic of the Congo	5	3	5	 Angola
+ Cameroon (L)
+ Central African Republic (L)
+ Democratic Republic of the Congo
+ Gabon
+ Cook Islands[l] (New Zealand)	0	3 (5)	3 (5)	 Kiribati (M)
+ American Samoa[k] (United States) (M)
+ French Polynesia[o] (France) (M)
+ Niue[m] (New Zealand) (M)
+ Tokelau[n] (New Zealand) (M)
+ Coral Sea Islands[s] (Australia)	0	3 (4)	3 (4)	 Australia (M)
+ New Caledonia[t] (France) (M)
+ Papua New Guinea (M)
+ Solomon Islands (M)
+ Costa Rica	2	4	4	 Colombia (M)
+ Ecuador (M)
+ Nicaragua
+ Panama
+ Côte d'Ivoire	5	2	5	 Burkina Faso (L)
+ Ghana
+ Guinea (L)
+ Liberia
+ Mali (L)
+ Croatia	5	4	6	 Bosnia and Herzegovina
+ Hungary (L)
+ Italy (M)
+ Montenegro
+ Serbia (L)
+ Slovenia
+ Cuba	0	7 (8)	7 (8)	 Bahamas (M)
+ Haiti (M)
+ Honduras (M)
+ Jamaica (M)
+ Mexico (M)
+ United States (M)
+ Cayman Islands[g] (United Kingdom) (M)
+Navassa Island[k][ad] (United States/Haiti) (M)
+ Curaçao[r] (Netherlands)	0	2 (4)	2 (4)	 Dominican Republic (M)
+ Netherlands (M)
+ Venezuela (M)
+ Aruba[r] (Netherlands) (M)
+ Cyprus	1	8	8	 Northern Cyprus
+ Egypt (M)
+ Greece (M)
+ Israel (M)
+ Lebanon (M)
+ Syria (M)
+ Turkey (M)[q]
+United Kingdom Akrotiri and Dhekelia[g] (United Kingdom)
+United Nations United Nations Buffer Zone in Cyprus
+ Northern Cyprus[ae]	1	4	4	 Cyprus (M)
+ Syria (M)
+ Turkey (M)
+United Kingdom Akrotiri and Dhekelia[g] (United Kingdom)
+United Nations United Nations Buffer Zone in Cyprus
+ Czech Republic	4	0	4	 Austria (L)
+ Germany (L)
+ Poland (L)
+ Slovakia (L)
+ Denmark[af]	1	5	5	 Germany
+ Norway (M)
+ Poland (M)
+ Sweden (M)
+ United Kingdom (M)
+Denmark Denmark, Kingdom of	2	7 (9)	7 (9)	 Canada
+ Germany
+ Iceland (M)
+ Norway (M)
+ Poland (M)
+ Sweden (M)
+ United Kingdom (M)
+ Jan Mayen[w] (Norway) (M)
+ Svalbard (Norway) (M)
+ Djibouti	3	3	4	 Eritrea
+ Ethiopia (L)
+ Somalia
+ Yemen (M)
+Djibouti borders Somaliland, who is considered by the international community to be part of Somalia
+ Dominica	0	2	2	 France (M)
+ Venezuela (M)
+ Dominican Republic	1	6 (7)	6 (7)	 Colombia (M)
+ Haiti
+ Venezuela (M)
+ Aruba[r] (Netherlands) (M)
+ Curaçao[r] (Netherlands) (M)
+ Puerto Rico[k] (United States) (M)
+ Turks and Caicos Islands[g] (United Kingdom) (M)
+ East Timor	1	2 (3)	2 (3)	 Australia (M)
+ Indonesia
+ Ashmore and Cartier Islands[s] (Australia) (M)
+ Ecuador	2	3	3	 Colombia
+ Costa Rica (M)
+ Peru
+ Egypt	4	9	9	 Cyprus (M)
+ Greece (M)
+ Israel
+ Jordan (M)
+ Libya
+ Saudi Arabia (M)
+ Sudan
+ Turkey (M)
+ Palestine[ag]
+ El Salvador	2	3	3	 Guatemala
+ Honduras
+ Nicaragua (M)
+ Equatorial Guinea	2	4	4	 Cameroon
+ Gabon
+ Nigeria (M)
+ São Tomé and Príncipe (M)
+ Eritrea	3	4	5	 Djibouti
+ Saudi Arabia (M)
+ Sudan
+ Ethiopia (L)
+ Yemen (M)
+ Estonia	2	4	4	 Finland (M)
+ Latvia
+ Russia
+ Sweden (M)
+ Eswatini (Swaziland)	2	0	2	 Mozambique (L)
+ South Africa (L)
+ Ethiopia	6	0	6	 Djibouti (L)
+ Eritrea (L)
+ Kenya (L)
+ Somalia (L)
+ South Sudan (L)
+ Sudan (L)
+ Falkland Islands[g][p] (United Kingdom)	0	1	1	 Argentina (M)
+ Faroe Islands[z] (Denmark)	0	3	3	 Iceland (M)
+ Norway (M)
+ United Kingdom (M)
+ Fiji	0	6 (7)	6 (7)	 New Zealand (M)
+ Solomon Islands (M)
+ Tonga (M)
+ Tuvalu (M)
+ Vanuatu (M)
+ New Caledonia[t] (France) (M)
+ Wallis and Futuna[o] (France) (M)
+ Finland	3	3	4	 Estonia (M)
+ Norway (L)
+ Russia
+ Sweden
+ France[ah]	10	15 (19)	19 (23)	 Andorra (L)
+ Antigua and Barbuda (M)
+ Barbados (M)
+ Belgium
+ Brazil
+ Comoros (M)
+ Dominica (M)
+ Germany (L)
+ Italy
+ Luxembourg (L)
+ Madagascar (M)
+ Mauritius (M)
+ Monaco
+ Saint Lucia (M)
+ Spain
+  Switzerland (L)
+ Suriname
+ United Kingdom (M)
+ Venezuela (M)
+ French Southern and Antarctic Lands (France) (M)
+ Guernsey[ai] (United Kingdom) (M)
+ Jersey[ai] (United Kingdom) (M)
+ Montserrat[g] (United Kingdom) (M)
+ France	11 (12)	27 (38)	31 (42)	 Andorra (L)
+ Antigua and Barbuda (M)
+ Barbados (M)
+ Belgium
+ Brazil
+ Canada (M)
+ Comoros (M)
+ Dominica (M)
+ Fiji (M)
+ Germany (L)
+ Italy
+ Kiribati (M)
+ Luxembourg (L)
+ Madagascar (M)
+ Mauritius (M)
+ Monaco
+ Mozambique (M)
+ Netherlands
+ Saint Kitts and Nevis (M)
+ Saint Lucia (M)
+ Samoa (M)
+ Seychelles (M)
+ Solomon Islands (M)
+ Spain
+ Suriname
+  Switzerland (L)
+ Tonga (M)
+ Tuvalu (M)
+ United Kingdom (M)
+ Vanuatu (M)[q]
+ Venezuela (M)
+ Anguilla[g] (United Kingdom) (M)
+ Cook Islands[l] (New Zealand) (M)
+ Coral Sea Islands[s] (Australia) (M)
+ Guernsey[ai] (United Kingdom) (M)
+Australia Heard Island and McDonald Islands[s] (Australia) (M)
+ Jersey[ai] (United Kingdom) (M)
+ Montserrat[g] (United Kingdom) (M)
+ Sint Maarten[r] (Netherlands)
+ Norfolk Island[s] (Australia) (M)
+ Pitcairn Islands[g] (United Kingdom) (M)
+ Tokelau[n] (New Zealand) (M)
+ French Polynesia[o] (France)	0	3	3	 Kiribati (M)
+ Cook Islands[l] (New Zealand) (M)
+ Pitcairn Islands[g] (United Kingdom) (M)
+ French Southern and Antarctic Lands Excluding Adélie Land[aj][ak] (France)	0	6 (7)	6 (7)	 Comoros (M)
+ France (M)
+ Madagascar (M)
+ Mauritius (M)
+ Mozambique (M)
+ Seychelles (M)
+ Heard Island and McDonald Islands[s] (Australia) (M)
+ Gabon	3	3	4	 Cameroon (L)
+ Republic of the Congo
+ Equatorial Guinea
+ São Tomé and Príncipe (M)
+ The Gambia	1	2	2	 Cape Verde (M)
+ Senegal
+ Georgia	4	2	4	 Armenia (L)
+ Azerbaijan (L)
+ Russia
+ Turkey
+ Germany	9	5	11	 Austria (L)
+ Belgium (L)
+ Czech Republic (L)
+ Denmark
+ France (L)
+ Luxembourg (L)
+ Netherlands
+ Poland
+ Sweden (M)
+  Switzerland (L)
+ United Kingdom (M)
+ Ghana	3	2	3	 Burkina Faso (L)
+ Côte d'Ivoire
+ Togo
+ Gibraltar[g] (United Kingdom)	1	1	1	 Spain
+ Greece	4	6	8	 Albania
+ Bulgaria (L)
+ Cyprus (M)
+ Egypt (M)
+ Italy (M)
+ Libya (M)
+ North Macedonia (L)
+ Turkey
+ Greenland[z] (Denmark)	1	3 (4)	3 (4)	 Canada
+ Iceland (M)
+ Jan Mayen[w] (Norway) (M)
+ Svalbard[w] (Norway) (M)
+ Grenada	0	3	3	 Saint Vincent and the Grenadines (M)
+ Trinidad and Tobago (M)
+ Venezuela (M)
+ Guam[k] (United States)	0	1 (2)	1 (2)	 Federated States of Micronesia (M)
+ Northern Mariana Islands[k] (United States) (M)
+ Guatemala	4	4	4	 Belize
+ El Salvador
+ Honduras
+ Mexico
+ Guernsey[ai] (United Kingdom)	0	1 (3)	1 (3)	 France (M)
+ United Kingdom (M)
+ Jersey[ai] (United Kingdom) (M)
+ Guinea	6	2	6	 Côte d'Ivoire (L)
+ Guinea-Bissau
+ Liberia (L)
+ Mali (L)
+ Senegal (L)
+ Sierra Leone
+ Guinea-Bissau	2	2	2	 Guinea
+ Senegal
+ Guyana	3	4	5	 Barbados (M)
+ Brazil (L)
+ Suriname
+ Trinidad and Tobago (M)
+ Venezuela[q]
+ Haiti	1	7	7	 Bahamas (M)
+ Colombia (M)
+ Cuba (M)
+ Dominican Republic
+ Jamaica (M)
+Navassa Island[k][ad] (United States/Haiti) (M)
+ Turks and Caicos Islands[g] (United Kingdom) (M)
+ Heard Island and McDonald Islands[s] (Australia)	0	1	1	 French Southern and Antarctic Lands (France) (M)
+ Honduras	3	8	8	 Belize (M)
+ Cuba (M)
+ El Salvador
+ Guatemala
+ Jamaica (M)
+ Mexico (M)
+ Nicaragua
+ Cayman Islands[g] (United Kingdom) (M)
+ Hong Kong	0	0 (2)	0 (2)	 China (M)
+ Macau (M)
+United States Howland Island[k] (United States)	0	0 (1)	0 (1)	United States Baker Island[k] (United States) (M)
+ Hungary	7	0	7	 Austria (L)
+ Croatia (L)
+ Romania (L)
+ Serbia (L)
+ Slovakia (L)
+ Slovenia (L)
+ Ukraine (L)
+ Iceland	0	2 (3)	2 (3)	 Faroe Islands[z] (Denmark) (M)
+ Greenland[z] (Denmark) (M)
+ Jan Mayen[w] (Norway) (M)
+ India	6	7	10	 Bangladesh
+ Bhutan (L)
+ Myanmar
+ China (L)[q]
+ Indonesia (M)
+ Maldives (M)
+   Nepal (L)
+ Pakistan[q][f]
+ Sri Lanka (M/L)
+ Thailand (M)
+ Indonesia	3	12 (14)	12 (14)	 Australia (M)
+ China (M)[q]
+ East Timor
+ India (M)
+ Malaysia
+ Palau (M)
+ Papua New Guinea
+ Philippines (M)
+ Singapore (M)
+ Thailand (M)
+ Vietnam (M)[q]
+ Ashmore and Cartier Islands[s] (Australia) (M)
+ Christmas Island[s] (Australia) (M)
+ Iran	7	10	13	 Afghanistan (L)
+ Armenia (L)
+ Azerbaijan[u]
+ Bahrain (M)
+ Iraq
+ Kuwait (M)
+ Oman (M)
+ Pakistan
+ Qatar (M)
+ Saudi Arabia (M)
+ Turkey (L)
+ Turkmenistan[u]
+ United Arab Emirates (M)
+ Iraq	6	2	6	 Iran
+ Jordan (L)
+ Kuwait
+ Saudi Arabia (L)
+ Syria (L)
+ Turkey (L)
+ Ireland	1	1	1	 United Kingdom
+ Isle of Man[ai] (United Kingdom)	0	0 (1)	0 (1)	 United Kingdom
+ Israel	5	5	6	 Cyprus (M)
+ Egypt
+ Jordan
+ Lebanon
+ Syria (L)
+ Palestine[ag]
+ Italy	6	11	15	 Albania (M)
+ Algeria (M)
+ Austria (L)
+ Croatia (M)
+ France
+ Greece (M)
+ Libya (M)
+ Malta (M)
+ Montenegro (M)
+ San Marino (L)
+ Slovenia
+ Spain (M)
+  Switzerland (L)
+ Tunisia (M)
+ Vatican City (L)
+ Jamaica	0	7	7	 Colombia (M)
+ Cuba (M)
+ Haiti (M)
+ Honduras (M)
+ Nicaragua (M)
+ Cayman Islands[g] (United Kingdom) (M)
+Navassa Island[k][ad] (United States/Haiti) (M)
+ Jan Mayen[w] (Norway)	0	2	2	 Iceland (M)
+ Greenland[z] (Denmark) (M)
+ Japan	0	7	7	 China (M)
+ South Korea (M)[q]
+ North Korea (M) [q]
+ Philippines (M)
+ Russia (M)
+ Northern Mariana Islands[k] (United States) (M)
+ Jarvis Island[k] (United States)	0	1	1	 Kiribati (M)
+ Jersey[ai] (United Kingdom)	0	1 (2)	1 (2)	 France (M)
+ Guernsey[ai] (United Kingdom) (M)
+ Johnston Atoll[k] (United States)	0	0	0	None
+ Jordan	5	3	6	 Egypt (M)
+ Iraq (L)
+ Israel
+ Saudi Arabia
+ Syria (L)
+ Palestine[ag] (L)
+ Kazakhstan	5	3[u]	6	 Azerbaijan (M)[u]
+ China (L)
+ Kyrgyzstan (L)
+ Russia[u]
+ Turkmenistan[u]
+ Uzbekistan (L)
+ Kenya	5	2	5	 Ethiopia (L)
+ Somalia
+ South Sudan (L)
+ Tanzania
+ Uganda (L)
+ Kingman Reef[k] (United States)	0	1 (2)	1 (2)	 Kiribati (M)
+ Palmyra Atoll[k] (United States) (M)
+ Kiribati	0	6 (10)	6 (10)	 Marshall Islands (M)
+ Nauru (M)
+ Tuvalu (M)
+ Cook Islands[l] (New Zealand) (M)
+ French Polynesia[o] (France) (M)
+United States Baker Island[k] (United States) (M)
+ Jarvis Island[k] (United States) (M)
+ Kingman Reef (United States) (M)
+ Palmyra Atoll[k] (United States) (M)
+ Tokelau[n] (New Zealand) (M)
+ North Korea	3	3	3	 China
+ South Korea
+ Russia
+ Japan [q]
+ South Korea	1	3	3	 China (M)
+ Japan (M)[q]
+ North Korea
+ Kosovo[i]	4	0	4	 Albania (L)
+ Montenegro (L)
+ North Macedonia (L)
+ Serbia (L)
+ Kuwait	2	3	3	 Iran (M)
+ Iraq
+ Saudi Arabia
+ Kyrgyzstan	4	0	4	 China (L)
+ Kazakhstan (L)
+ Tajikistan (L)
+ Uzbekistan (L)
+ Laos	5	0	5	 Myanmar (L)
+ Cambodia (L)
+ China (L)
+ Thailand (L)
+ Vietnam (L)
+ Latvia	4	3	5	 Belarus (L)
+ Estonia
+ Lithuania
+ Russia (L)
+ Sweden (M)
+ Lebanon	2	3	3	 Cyprus (M)
+ Israel
+ Syria
+ Lesotho	1	0	1	 South Africa (L)
+ Liberia	3	2	3	 Côte d'Ivoire
+ Guinea (L)
+ Sierra Leone
+ Libya	6	5	9	 Algeria (L)
+ Chad (L)
+ Egypt
+ Greece (M)
+ Italy (M)
+ Malta (M)
+ Niger (L)
+ Sudan (L)
+ Tunisia
+ Turkey (M)
+ Liechtenstein	2	0	2	 Austria (L)
+  Switzerland (L)
+ Lithuania	4	3	5	 Belarus (L)
+ Latvia
+ Poland (L)
+ Russia
+ Sweden (M)
+ Luxembourg	3	0	3	 Belgium (L)
+ France (L)
+ Germany (L)
+ Macau[al]	0	0 (2)	0 (2)	 China
+ Hong Kong (M)
+ Madagascar	0	5 (6)	5 (6)	 Comoros (M)
+ France (M)
+ Mauritius (M)
+ Mozambique (M)
+ Seychelles (M)
+ French Southern and Antarctic Lands[ak][am] (France) (M)
+ Malawi	3	0	3	 Mozambique (L)
+ Tanzania (L)
+ Zambia (L)
+ Malaysia	3	8	8	 Brunei
+ China (M)[q]
+ Indonesia
+ Philippines (M)[q]
+ Singapore (M)
+ Thailand
+ Vietnam (M)[q]
+ Maldives	0	4	4	 India (M)
+ Sri Lanka (M)
+ British Indian Ocean Territory[g][x] (United Kingdom) (M)
+ Mauritius (M)[x]
+ Mali	7	0	7	 Algeria (L)
+ Burkina Faso (L)
+ Côte d'Ivoire (L)
+ Guinea (L)
+ Mauritania (L)
+ Niger (L)
+ Senegal (L)
+ Malta	0	2	2	 Italy (M)
+ Libya (M)
+ Marshall Islands	0	4	4	 Kiribati (M)
+ Federated States of Micronesia (M)
+ Nauru (M)
+ Wake Island[an] (United States) (M)
+ Mauritania	4	3	5	 Algeria (L)
+ Cape Verde (M)
+ Mali (L)
+ Senegal
+Western Sahara[j]
+Mauritania borders the Western Sahara, which Morocco claims as its territory
+ Mauritius	0	4 (5)	4 (5)	 France (M)
+ Madagascar (M)
+ Seychelles (M)
+ French Southern and Antarctic Lands[e][ao] (France) (M)[q]
+ Maldives (M)[x]
+ Mexico	3	5	5	 Belize
+ Cuba (M)
+ Guatemala
+ Honduras (M)
+ United States
+ Federated States of Micronesia	0	4	4	 Marshall Islands (M)
+ Palau (M)
+ Papua New Guinea (M)
+ Guam[k] (United States) (M)
+ Midway Atoll[k] (United States)	0	0 (1)	0 (1)	 United States
+ Moldova	2	0	2	 Romania (L)
+ Ukraine (L)
+ Monaco	1	1	1	 France
+ Mongolia	2	0	2	 China (L)
+ Russia (L)
+ Montenegro	5	3	6	 Albania
+ Bosnia and Herzegovina (L)
+ Croatia
+ Italy (M)
+ Serbia (L)
+ Kosovo[i] (L)
+ Montserrat[g] (United Kingdom)	0	4	4	 Antigua and Barbuda (M)
+ France (M)
+ Saint Kitts and Nevis (M)
+ Venezuela (M)
+ Morocco	3	4	4	 Algeria
+ Portugal (M)
+ Spain
+Western Sahara[j]
+Morocco claims the Western Sahara, which claims independence. The Western Sahara borders Mauritania
+ Mozambique	6	5	9	 Comoros (M)
+ Eswatini (Swaziland) (L)
+ Madagascar (M)
+ Malawi (L)
+ South Africa
+ Tanzania
+ Zambia (L)
+ Zimbabwe (L)
+ French Southern and Antarctic Lands[ak][ap] (France) (M)
+ Myanmar	5	3	5	 Bangladesh
+ China (L)
+ India
+ Laos (L)
+ Thailand
+ Namibia	4	2	4	 Angola
+ Botswana (L)
+ South Africa
+ Zambia (L)
+ Nauru	0	2	2	 Kiribati (M)
+ Marshall Islands (M)
+Navassa Island[k][ad] (United States/Haiti)	0	3	3	 Cuba (M)
+ Haiti (M)
+ Jamaica (M)
+   Nepal	2	0	2	 India (L)
+ China (L)
+ Netherlands[aq]	2	7 (11)	7 (11)	 Belgium
+ Germany
+ Saint Kitts and Nevis (M)
+ United Kingdom (M)
+ Venezuela (M)
+ Anguilla[g] (United Kingdom) (M)
+ Curaçao[r] (Netherlands) (M)
+ Saint Barthélemy[o] (France) (M)
+ Saint Martin[o] (France) (M)
+ Sint Maarten[r] (Netherlands)
+ United States Virgin Islands[k] (United States) (M)
+Kingdom of the Netherlands	3	8 (10)	8 (10)	 Belgium
+ Dominican Republic (M)
+ Germany
+ Saint Kitts and Nevis (M)
+ United Kingdom (M)
+ Venezuela (M)
+ Anguilla[g] (United Kingdom) (M)
+France Saint Barthélemy[o] (France) (M)
+France Saint Martin[o] (France)
+ United States Virgin Islands[k] (United States) (M)
+ New Caledonia[t] (France)	0	4 (5)	4 (5)	 Fiji (M)
+ Solomon Islands (M)
+ Vanuatu (M)[q]
+ Coral Sea Islands[s] (Australia) (M)
+ Norfolk Island (Australia) (M)
+ New Zealand[ar]	0	2 (3)	2 (3)	 Australia (M)
+ Fiji (M)
+ Norfolk Island[s] (Australia) (M)
+New Zealand u	0	7 (9)	7 (9)	 Australia (M)
+ Fiji (M)
+ Kiribati (M)
+ Samoa (M)
+ Tonga (M)
+ American Samoa[k] (United States) (M)
+ French Polynesia[o] (France) (M)
+ Norfolk Island[s] (Australia) (M)
+ Wallis and Futuna[o] (France) (M)
+ Nicaragua	2	6	6	 Colombia (M)
+ Costa Rica
+ El Salvador (M)
+ Honduras
+ Jamaica (M)
+ Panama (M)
+ Niger	7	0	7	 Algeria (L)
+ Benin (L)
+ Burkina Faso (L)
+ Chad (L)
+ Libya (L)
+ Mali (L)
+ Nigeria (L)
+ Nigeria	4	4	6	 Benin
+ Cameroon
+ Chad (L)
+ Equatorial Guinea (M)
+ Niger (L)
+ São Tomé and Príncipe (M)
+ Niue[m] (New Zealand)	0	2 (3)	2 (3)	 Tonga (M)
+ American Samoa[k] (United States) (M)
+ Cook Islands[l] (New Zealand) (M)
+ Norfolk Island[s] (Australia)	0	2	2	 New Zealand (M)
+ New Caledonia[t] (France) (M)
+ North Macedonia	5	0	5	 Albania (L)
+ Bulgaria (L)
+ Greece (L)
+ Serbia (L)
+ Kosovo[i] (L)
+ Northern Mariana Islands[k] (United States)	0	1 (2)	1 (2)	 Japan (M)
+ Guam[k] (United States) (M)
+ Norway[as]	3	4 (6)	5 (7)	 Denmark (M)
+ Finland (L)
+ Russia
+ Sweden
+ United Kingdom (M)
+ Faroe Islands[z] (Denmark) (M)
+ Svalbard (Norway) (M)
+Norway	3	5 (7)	6 (8)	 Denmark (M)
+ Finland (L)
+ Iceland (M)
+ Russia
+ Sweden
+ United Kingdom (M)
+ Faroe Islands[z] (Denmark) (M)
+ Greenland[z] (Denmark) (M)
+ Oman	3	4	5	 Iran (M)
+ Pakistan (M)
+ Saudi Arabia (L)
+ United Arab Emirates
+ Yemen
+ Pakistan	4	3	5	 Afghanistan (L)
+ China (L)
+ India
+ Iran
+ Oman (M)
+ Palau	0	4	4	 Indonesia (M)
+ Federated States of Micronesia (M)
+ Philippines (M)
+ Palestine[ag]	3	2	3	 Egypt
+ Israel
+ Jordan (L)
+ Palmyra Atoll[k] (United States)	0	1 (2)	1 (2)	 Kiribati (M)
+ Kingman Reef[k] (United States) (M)
+ Panama	2	3	3	 Colombia
+ Costa Rica
+ Nicaragua (M)
+ Papua New Guinea	1	4 (5)	4 (5)	 Australia (M)
+ Indonesia
+ Federated States of Micronesia (M)
+ Solomon Islands (M)
+ Coral Sea Islands[s] (Australia) (M)
+ Paraguay	3	0	3	 Argentina (L)
+ Bolivia (L)
+ Brazil (L)
+ Peru	5	2	5	 Bolivia (L)
+ Brazil (L)
+ Chile
+ Colombia (L)
+ Ecuador
+Norway Peter I Island[d] (Norway)	0	1	1	 Chilean Antarctic Territory[d] (Chile) (M)
+ Philippines	0	8	8	 Brunei (M)[q]
+ China (M)[q]
+ Indonesia (M)
+ Japan (M)
+ Malaysia (M)[q]
+ Palau (M)
+ Vietnam (M)[q]
+ Pitcairn Islands[g] (United Kingdom)	0	1	1	 French Polynesia[o] (France) (M)
+ Poland	7	4	9	 Belarus (L)
+ Czech Republic (L)
+ Denmark (M)
+ Germany
+ Lithuania (L)
+ Russia
+ Slovakia (L)
+ Sweden (M)
+ Ukraine (L)
+ Portugal[at]	1	2	2	 Morocco (M)
+ Spain
+ Puerto Rico[k]	0	3 (4)	3 (4)	 Dominican Republic (M)
+ Venezuela (M)
+ British Virgin Islands[g] (United Kingdom) (M)
+ United States Virgin Islands[k] (United States) (M)
+ Qatar	1	4	4	 Bahrain (M)
+ Iran (M)
+ Saudi Arabia
+ United Arab Emirates (M)
+Norway Queen Maud Land[d] (Norway)	2	2	2	Australia Australian Antarctic Territory[d] (Australia)
+ British Antarctic Territory[d] (United Kingdom)
+ Romania	5	3	6	 Bulgaria
+ Hungary (L)
+ Moldova (L)
+ Russia (M)
+ Serbia (L)
+ Ukraine
+New Zealand Ross Dependency[d] (New Zealand)	1	1	1	Australia Australian Antarctic Territory[d] (Australia)
+ Russia	14	16 (17)	20 (21)	 Azerbaijan[u]
+ Belarus (L)
+ Bulgaria (M)[y]
+ China (L)
+ Estonia
+ Finland
+ Georgia
+ Japan (M)[q]
+ Kazakhstan[u]
+ North Korea
+ Latvia (L)
+ Lithuania
+ Mongolia (L)
+ Norway
+ Poland
+ Romania (M)
+ Sweden (M)
+ Turkey (M)
+ Ukraine[q]
+ United States (M)
+ Svalbard (Norway) (M)
+ Rwanda	4	0	4	 Burundi (L)
+ Democratic Republic of the Congo (L)
+ Tanzania (L)
+ Uganda (L)
+ Saint Barthélemy[o] (France)	0	4 (6)	4 (6)	 Antigua and Barbuda (M)
+ Netherlands (M)
+ Saint Kitts and Nevis (M)
+ Anguilla[g] (United Kingdom) (M)
+France Saint Martin[o] (France) (M)
+ Sint Maarten[r] (Netherlands) (M)
+ Saint Helena, Ascension and Tristan da Cunha[g] (United Kingdom)	0	0	0	None
+ Saint Kitts and Nevis	0	5	5	 Antigua and Barbuda (M)
+ Netherlands (M)
+ Venezuela (M)
+ Montserrat[g] (United Kingdom) (M)
+ Saint Barthélemy[o] (France) (M)
+ Saint Lucia	0	4	4	 Barbados (M)
+ France (M)
+ Saint Vincent and the Grenadines (M)
+ Venezuela (M)
+France Saint Martin[o] (France)	1	2 (4)	2 (4)	 Netherlands (M)
+ Anguilla[g] (United Kingdom) (M)
+ Saint Barthélemy[o] (France) (M)
+ Sint Maarten[r] (Netherlands)
+ Saint Pierre and Miquelon[o] (France)	0	1	1	 Canada (M)
+ Saint Vincent and the Grenadines	0	5	5	 Barbados (M)
+ Grenada (M)
+ Saint Lucia (M)
+ Trinidad and Tobago (M)
+ Venezuela (M)
+ Samoa	0	4	4	 Tonga (M)
+ American Samoa[k] (United States) (M)
+ Tokelau[n] (New Zealand) (M)
+ Wallis and Futuna[o] (France) (M)
+ San Marino	1	0	1	 Italy (L)
+ São Tomé and Príncipe	0	3	3	 Equatorial Guinea (M)
+ Gabon (M)
+ Nigeria (M)
+ Saudi Arabia	7	10	12	 Bahrain (M)
+ Egypt (M)
+ Eritrea (M)
+ Iran (M)
+ Iraq (L)
+ Jordan
+ Kuwait
+ Oman (L)
+ Qatar
+ Sudan (M)
+ United Arab Emirates
+ Yemen
+ Senegal	5	4	6	 Cape Verde (M)
+ The Gambia
+ Guinea (L)
+ Guinea-Bissau
+ Mali (L)
+ Mauritania
+ Serbia	8	0	8	 Bosnia and Herzegovina (L)
+ Bulgaria (L)
+ Croatia (L)
+ Hungary (L)
+ Montenegro (L)
+ North Macedonia (L)
+ Romania (L)
+ Kosovo[i] (L)
+ Seychelles	0	5	5	 Comoros (M)
+ Madagascar (M)
+ Mauritius (M)
+ Tanzania (M)
+ French Southern and Antarctic Lands[e][ac] (France) (M)
+ Sierra Leone	2	2	2	 Guinea
+ Liberia
+ Singapore	0	2	2	 Indonesia (M)
+ Malaysia (M)
+ Sint Maarten[r] (Netherlands)	1	1 (3)	1 (3)	 Netherlands (M)
+France Saint Barthélemy[o] (France) (M)
+France Saint Martin[o] (France)
+ Slovakia	5	0	5	 Austria (L)
+ Czech Republic (L)
+ Hungary (L)
+ Poland (L)
+ Ukraine (L)
+ Slovenia	4	2	4	 Austria (L)
+ Croatia
+ Italy
+ Hungary (L)
+ Solomon Islands	0	5	5	 Fiji (M)
+ Papua New Guinea (M)
+ Vanuatu (M)
+ Coral Sea Islands[s] (Australia) (M)
+ New Caledonia[t] (France) (M)
+ Somalia	3	3	4	 Djibouti
+ Ethiopia (L)
+ Kenya
+ Yemen (M)
+Somaliland, which considers itself independent, is the only part of Somalia to border Djibouti
+ Somaliland[au]	3	3	4	 Djibouti
+ Ethiopia (L)
+ Somalia
+ Yemen (M)
+ South Africa	6	2	6	 Botswana (L)
+ Eswatini (Swaziland) (L)
+ Lesotho (L)
+ Mozambique
+ Namibia
+ Zimbabwe (L)
+ South Georgia and the South Sandwich Islands[g] (United Kingdom)	0	0	0	None
+ South Ossetia[av]	2	0	2	 Georgia (L)
+ Russia (L)
+ South Sudan	6	0	6	 Central African Republic (L)
+ Democratic Republic of the Congo (L)
+ Ethiopia (L)
+ Kenya (L)
+ Sudan (L)
+ Uganda (L)
+ Spain	5	7	8	 Algeria (M)
+ Andorra (L)
+ France
+ Italy (M)
+ Morocco
+ Portugal
+ Gibraltar[g] (United Kingdom)
+Western Sahara[j] (M)
+ Sri Lanka	0	2	2	 India (M)
+ Maldives (M)
+ Sudan	7	3	8	 Central African Republic (L)
+ Chad (L)
+ Egypt
+ Eritrea
+ Ethiopia (L)
+ Libya (L)
+ Saudi Arabia (M)
+ South Sudan (L)
+ Suriname	3	2	3	 Brazil (L)
+ France
+ Guyana
+ Svalbard[w] (Norway)	0	2 (3)	2 (3)	 Norway (M)
+ Russia (M)[aw]
+ Greenland[z] (Denmark) (M)
+ Sweden	2	9	9	 Denmark (M)
+ Estonia (M)
+ Finland
+ Germany (M)
+ Latvia (M)
+ Lithuania (M)
+ Norway
+ Poland (M)
+ Russia (M)
+  Switzerland	5	0	5	 Austria (L)
+ France (L)
+ Italy (L)
+ Liechtenstein (L)
+ Germany (L)
+ Syria	5	4	7	 Cyprus (M)
+ Iraq (L)
+ Israel (L)
+ Jordan (L)
+ Lebanon
+ Turkey
+ Northern Cyprus (M)
+ Republic of China[ax]	0	7	7	 Brunei (M)[q]
+ China (M)[q]
+ Indonesia (M)[q]
+ Japan (M)[q]
+ Malaysia (M)[q]
+ Philippines (M)[q]
+ Vietnam (M)[q]
+ Tajikistan	4	0	4	 Afghanistan (L)
+ China (L)
+ Kyrgyzstan (L)
+ Uzbekistan (L)
+ Tanzania	8	4	10	 Burundi (L)
+ Comoros (M)
+ Democratic Republic of the Congo (L)
+ Kenya
+ Malawi (L)
+ Mozambique
+ Rwanda (L)
+ Seychelles (M)
+ Uganda (L)
+ Zambia (L)
+ Thailand	4	6	7	 Myanmar
+ Cambodia[q]
+ India (M)
+ Indonesia (M)
+ Laos (L)
+ Malaysia[q]
+ Vietnam (M)[q]
+ Togo	3	2	3	 Benin
+ Burkina Faso (L)
+ Ghana
+ Tokelau[n] (New Zealand)	0	4 (5)	4 (5)	 Kiribati (M)
+ Samoa (M)
+ American Samoa[k] (United States) (M)
+ Cook Islands[l] (New Zealand) (M)
+ Wallis and Futuna[o] (France) (M)
+ Tonga	0	5	5	 Fiji (M)
+ Samoa (M)
+ American Samoa[k] (United States) (M)
+ Niue[m] (New Zealand) (M)
+ Wallis and Futuna[o] (France) (M)
+ Transnistria[ay]	2	0	2	 Moldova (L)
+ Ukraine (L)
+ Trinidad and Tobago	0	5	5	 Barbados (M)
+ Grenada (M)
+ Guyana (M)
+ Saint Vincent and the Grenadines (M)
+ Venezuela (M)
+ Tunisia	2	3	3	 Algeria
+ Italy (M)
+ Libya
+ Turkey	8	10	14	 Armenia (L)
+ Azerbaijan (L)
+ Bulgaria
+ Cyprus (M)[q]
+ Egypt (M)
+ Georgia
+ Greece[q]
+ Iran (L)
+ Iraq (L)
+ Russia (M)
+ Syria
+ Ukraine (M)
+ Northern Cyprus (M)
+ Turkmenistan	4	3[u]	5	 Afghanistan (L)
+ Azerbaijan (M)[u]
+ Iran[u]
+ Kazakhstan[u]
+ Uzbekistan (L)
+ Turks and Caicos Islands[g] (United Kingdom)	0	3	3	 Bahamas (M)
+ Dominican Republic (M)
+ Haiti (M)
+ Tuvalu	0	3	3	 Fiji (M)
+ Kiribati (M)
+ Wallis and Futuna[o] (France) (M)
+ Uganda	5	0	5	 Democratic Republic of the Congo (L)
+ Kenya (L)
+ Rwanda (L)
+ South Sudan (L)
+ Tanzania (L)
+ Ukraine	7	4	9	 Belarus (L)
+ Bulgaria (M)[y]
+ Hungary (L)
+ Moldova (L)
+ Poland (L)
+ Romania
+ Russia
+ Slovakia (L)
+ Turkey (M)
+ United Arab Emirates	2	4	4	 Iran (M)
+ Oman
+ Qatar (M)
+ Saudi Arabia
+ United Kingdom[az]	1	7 (10)	7 (10)	 Belgium (M)
+ Denmark (M)
+ France (M)
+ Germany (M)
+ Ireland
+ Netherlands (M)
+ Norway (M)
+ Spain
+ Faroe Islands[z] (Denmark) (M)
+ Guernsey[ai] (United Kingdom) (M)
+ Isle of Man[ai] (United Kingdom) (M)
+ United Kingdom	3	21 (26)	21 (26)	 Antigua and Barbuda (M)
+ Argentina (M)
+ Bahamas (M)
+ Belgium (M)
+ Cuba (M)
+ Cyprus
+ Denmark (M)
+ Dominican Republic (M)
+ France (M)
+ Germany (M)
+ Haiti (M)
+ Honduras (M)
+ Ireland
+ Jamaica (M)
+ Maldives (M)
+ Netherlands (M)
+ Norway (M)
+ Saint Kitts and Nevis (M)
+ Spain
+ Venezuela (M)
+ Faroe Islands[z] (Denmark) (M)
+ French Polynesia[o] (France) (M)
+ Puerto Rico[k] (United States) (M)
+ Saint Barthélemy[o] (France) (M)
+France Saint Martin[o] (France) (M)
+ United States Virgin Islands[k] (United States) (M)
+ United States (excluding insular areas)	2	5 (6)	5 (6)	 Bahamas (M)
+ Canada
+ Cuba (M)
+ Mexico
+ Russia (M)
+ Midway Atoll[k] (United States) (M)
+ United States	2	18 (21)	18 (21)	 Bahamas (M)
+ Canada
+ Cuba (M)
+ Dominican Republic (M)
+ Haiti (M)
+ Jamaica (M)
+ Japan (M)
+ Kiribati (M)
+ Marshall Islands (M)
+ Mexico
+ Federated States of Micronesia (M)
+ Netherlands (M)
+ Russia (M)
+ Samoa (M)
+ Tonga (M)
+ Venezuela (M)
+ Anguilla[g] (United Kingdom) (M)
+ British Virgin Islands[g] (United Kingdom) (M)
+ Cook Islands[l] (New Zealand) (M)
+ Niue[m] (New Zealand) (M)
+ Tokelau[n] (New Zealand) (M)
+ United States Virgin Islands[k] (United States)	0	3 (5)	3 (5)	 Netherlands (M)
+ Venezuela (M)
+ Anguilla[g] (United Kingdom) (M)
+ British Virgin Islands[g] (United Kingdom) (M)
+ Puerto Rico[k] (United States) (M)
+ Uruguay	2	2	2	 Argentina
+ Brazil
+ Uzbekistan	5	0	5	 Afghanistan (L)
+ Kazakhstan (L)
+ Kyrgyzstan (L)
+ Tajikistan (L)
+ Turkmenistan (L)
+ Vanuatu	0	3	3	 Fiji (M)
+ Solomon Islands (M)
+ New Caledonia[t] (France) (M)
+ Vatican City	1	0	1	 Italy (L)
+ Venezuela	3	14 (17)	15 (18)	 Barbados (M)
+ Brazil (L)
+ Colombia
+ Dominica (M)
+ Dominican Republic (M)
+ France (M)
+ Grenada (M)
+ Guyana[q]
+ Netherlands (M)
+ Saint Kitts and Nevis (M)
+ Saint Lucia (M)
+ Saint Vincent and the Grenadines (M)
+ Trinidad and Tobago (M)
+ Aruba[r] (Netherlands) (M)
+ Curaçao[r] (Netherlands) (M)
+ Montserrat[g] (United Kingdom) (M)
+ Puerto Rico[k] (United States) (M)
+ United States Virgin Islands[k] (United States) (M)
+ Vietnam	3	8	9	 Brunei (M)[q]
+ Cambodia[q]
+ China[q]
+ Indonesia (M)[q]
+ Laos (L)
+ Malaysia (M)[q]
+ Philippines (M)[q]
+ Thailand (M)[q]
+ Wake Island[an] (United States)	0	1	1	 Marshall Islands (M)
+ Wallis and Futuna[o] (France)	0	5	5	 Fiji (M)
+ Samoa (M)
+ Tonga (M)
+ Tuvalu (M)
+ Tokelau[n] (New Zealand) (M)
+Western Sahara[j]	3	3	4	 Algeria (L)
+ Mauritania
+ Morocco
+ Spain (M)
+ Yemen	2	5	5	 Djibouti (M)
+ Eritrea (M)
+ Oman
+ Saudi Arabia
+ Somalia (M)
+ Zambia	8	0	8	 Angola (L)
+ Botswana (L)
+ Democratic Republic of the Congo (L)
+ Malawi (L)
+ Mozambique (L)
+ Namibia (L)
+ Tanzania (L)
+ Zimbabwe (L)
+ Zimbabwe	4	0	4	 Botswana (L)
+ Mozambique (L)
+ South Africa (L)
+ Zambia (L)
